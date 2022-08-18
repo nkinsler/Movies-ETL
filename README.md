@@ -6,7 +6,7 @@ Create an ptakes in new data, performs the appropriate transformations, and load
 
 ## Results
 
-[ETL_function_test.ipynb]()
+[ETL_function_test.ipynb](https://github.com/nkinsler/Movies-ETL/blob/main/ETL_function_test.ipynb)
 
 [ETL_clean_wiki_movies.ipynb]()
 
